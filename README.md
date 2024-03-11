@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Concepts of Programming Languages 
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me:
-      IG: @nguyen._.michael 
+      IG: @michael.nguywn
 
 <!---
 Mxke-N/Mxke-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
