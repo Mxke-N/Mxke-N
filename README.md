@@ -2,8 +2,8 @@
 - 👀 I’m interested in finding a profession in software development
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me:
-      IG: @michael.nguywn
+- 📫 How to reach me:  
+      IG: @michael.nguywn  
       LinkedIn: https://www.linkedin.com/in/michaelnguyenp/
 
 <!---
